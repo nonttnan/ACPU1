@@ -6,10 +6,6 @@
   <meta charset="utf-8">
   </head>
   <body>
-<style>
-body {
-  background-color: #FFCBCB
-  } </style>
 
 <h1>박지선</h1>
   <br>
