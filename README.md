@@ -9,10 +9,10 @@
 
 <h1>박지선</h1>
   <br>
-<img src="11.jpg"><br>
-<img src="22.jpg"><br>
-<img src="33.jpg"><br>
-<img src="44.jpg"><br>
+<img src="11.jpg" width=20%><br>
+<img src="22.jpg" width=20%><br>
+<img src="33.jpg" width=20%><br>
+<img src="44.jpg" width=20%><br>
 <br><br>
 <h3>나이, 출생 : 18세, 2002년 9월 7일<br>
 국적 : 대한민국<br>
